@@ -3,14 +3,14 @@
 
 
 
-This calculator is designed to quickly compute the Simple Interest for any given principal amount, annual interest rate, and duration in years. It's a handy tool for anyone needing to estimate interest earnings or payments with minimal effort.
+  - This calculator is designed to quickly compute the Simple Interest for any given principal amount, annual interest rate, and duration in years. It's a handy tool for anyone needing to estimate interest earnings or payments with minimal effort.
 
 **Input Required Details:**
 
-1.Principal Amount (initial amount of money)
-2.Rate of Interest (annual interest rate in percentage)
-3.Number of Years (duration for which interest is calculated)
+  - Principal Amount (initial amount of money)
+  - Rate of Interest (annual interest rate in percentage)
+  - Number of Years (duration for which interest is calculated)
 
 **Result:**
 
-The application will process your inputs and display the calculated Simple Interest in a clear and understandable format.
+  - The application will process your inputs and display the calculated Simple Interest in a clear and understandable format.
